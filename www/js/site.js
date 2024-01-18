@@ -13,10 +13,5 @@ $(document).ready(function() {
           clickable: true,
         },
       });
-      $('.grid').masonry({
-        // options
-        itemSelector: '.grid-item',
-        columnWidth: 10
-      });
 });
 
